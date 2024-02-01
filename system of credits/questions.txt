@@ -1,0 +1,14 @@
+In a university, there is a certain system of credits. Each student is given a
+'credit limit' which specifies the maximum credits of a subject they can take. A
+student can take any number of subjects which are under his/her credit limit.
+There are N students and K subjects. Each subject has a specified number of
+credits. When a student chooses a subject, it becomes a (student, subject) pair
+Find the maximum number of possible (subject, student) pairs for the given
+credit limits and subject credit requirements.
+Input Specification:
+input1: K, denoting the number of subjects
+input2: An array of Kelements each denoting the credits to take a
+subject
+input3: N, denoting the number of students
+input4: An array of N elements each denoting the credit limit of a
+student.  
