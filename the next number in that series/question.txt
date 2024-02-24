@@ -1,1 +1,2 @@
-a series could be an arithmetic progression or geometric progression or fibonacci series.you will be provided with N numbers. you task is to identify which series it is, and find the next number in that series.​
+a series could be an arithmetic progression or geometric progression or fibonacci series.you will be provided with N numbers. 
+you task is to identify which series it is, and find the next number in that series.​
